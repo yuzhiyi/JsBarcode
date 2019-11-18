@@ -1,5 +1,6 @@
 var defaults = {
 	width: 2,
+    barWidth: 1,
 	height: 100,
 	format: "auto",
 	displayValue: true,
